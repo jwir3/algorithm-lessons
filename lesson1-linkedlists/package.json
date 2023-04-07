@@ -1,0 +1,12 @@
+{
+  "name": "lesson1-linkedlists",
+  "version": "1.0.0",
+  "description": "A lesson on linked lists.",
+  "main": "index.js",
+  "author": "Scott Johnson",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
