@@ -1,0 +1,19 @@
+{
+  "name": "mergesort",
+  "version": "1.0.0",
+  "description": "An example of how merge sort works",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Scott Johnson <jaywir3@gmail.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
